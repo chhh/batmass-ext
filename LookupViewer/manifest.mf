@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: umich.ms.batmass.lookupviewer
+OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/lookupviewer/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

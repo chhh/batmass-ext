@@ -1,0 +1,14 @@
+**/nbproject/private/
+**/build/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/nbactions.xml
+**/nb-configuration.xml
+**/out/
+
+**/.idea/workspace.xml
+/TiledNetBeansEditors/tiled-editors/target/
+/tiled-editors/target/
+/TiledNetBeansEditors_copy/branding/target/
+/TiledNetBeansEditors_copy/tiled-editors/target/
