@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
+<module_updates timestamp="04/52/19/19/05/2016">
+
+
+
+<module codenamebase="umich.ms.batmass.ext" distribution="umich-ms-batmass-ext.nbm" downloadsize="11656" homepage="http://batmass.org" license="AE2BED43" moduleauthor="Dmitry Avtonomov" needsrestart="false" releasedate="2016/05/19">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.ext" OpenIDE-Module-Implementation-Version="160519" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="The default behavior of client's UC is controlled by additional params added to batmass.conf:&#10;&#10;    -J-Dplugin.manager.check.interval=EVERY_STARTUP &#10;    This forces to check for updates at app start by default. if the user changes that manually later,&#10;    his settings will be remembered and used afterwards.&#10;    &#10;    -J-Dplugin.manager.check.new.plugins=true&#10;    This option forces to check for new plugin availability (not only updates to the installed plugins).&#10;    New plugins are reported as new updates in a balloon notification in the bottom right corner,&#10;    making it more likely to be installed by users." OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.51.1" OpenIDE-Module-Name="Auto Update (BatMassExt)" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="BatMassExt Update Center" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="umich.ms.batmass.colorgradienteditor" distribution="umich-ms-batmass-colorgradienteditor.nbm" downloadsize="6844" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2016/05/19">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.colorgradienteditor" OpenIDE-Module-Implementation-Version="160519" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Name="ColorGradientEditor" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="umich.ms.batmass.colorpicker" distribution="umich-ms-batmass-colorpicker.nbm" downloadsize="33665" homepage="http://javagraphics.blogspot.com/" license="FFB6EB93" moduleauthor="Jeremy Wood" needsrestart="false" releasedate="2016/05/19">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.colorpicker" OpenIDE-Module-Implementation-Version="160519" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Name="ColorPicker" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="umich.ms.batmass.lookupviewer" distribution="umich-ms-batmass-lookupviewer.nbm" downloadsize="5867" homepage="" license="AD9FBBC9" moduleauthor="Geertjan Wielenga" needsrestart="false" releasedate="2016/05/19">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.lookupviewer" OpenIDE-Module-Implementation-Version="160519" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.61.1, org.openide.explorer &gt; 6.56.1, org.openide.nodes &gt; 7.38.1, org.openide.util &gt; 8.37.1, org.openide.util.lookup &gt; 8.24.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.70.1" OpenIDE-Module-Name="LookupViewer" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="org.esa.snap.netbeans.tile" distribution="org-esa-snap-netbeans-tile.nbm" downloadsize="36989" homepage="https://github.com/GeertjanWielenga/TiledNetBeansEditors" license="CCF76ADC" moduleauthor="" needsrestart="false" releasedate="2016/05/19">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.esa.snap.netbeans.tile" OpenIDE-Module-Implementation-Version="160519" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.24.1, org.openide.actions &gt; 6.35.1, org.openide.awt &gt; 7.62.1, org.openide.dialogs &gt; 7.38.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.71.1" OpenIDE-Module-Name="TiledNetBeansEditors" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<license name="FFB6EB93" url="licenses/FFB6EB93.license"/>
+<license name="AE2BED43" url="licenses/AE2BED43.license"/>
+<license name="CCF76ADC" url="licenses/CCF76ADC.license"/>
+<license name="AD9FBBC9" url="licenses/AD9FBBC9.license"/>
+</module_updates>
+
