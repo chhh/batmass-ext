@@ -7,6 +7,8 @@
 **/nb-configuration.xml
 **/out/
 
+updates-backup
+
 **/.idea/workspace.xml
 /TiledNetBeansEditors/tiled-editors/target/
 /tiled-editors/target/
